@@ -1,0 +1,2043 @@
+[
+	{
+		"coNm": "(주)센텍",
+		"busiNo": "3128155450",
+		"reperNm": "서정원/이은미",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "44130",
+		"regionNm": "충남 천안시"
+	},
+	{
+		"coNm": "(주)케이씨티엘",
+		"busiNo": "1358147222",
+		"reperNm": "이강석",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "41110",
+		"regionNm": "경기 수원시"
+	},
+	{
+		"coNm": "주식회사 엑심베이",
+		"busiNo": "1138637262",
+		"reperNm": "김준헌",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "한국무라타전자(주)",
+		"busiNo": "1208615359",
+		"reperNm": "요시오카켄이치",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "주식회사 파츠몰에이투지",
+		"busiNo": "2208140833",
+		"reperNm": "심장규",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41280",
+		"regionNm": "경기 고양시"
+	},
+	{
+		"coNm": "이앤에스글로벌 주식회사",
+		"busiNo": "2208794501",
+		"reperNm": "최종일",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)바우컨설탄트",
+		"busiNo": "1208148398",
+		"reperNm": "김용년/김종오",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "28237",
+		"regionNm": "인천 부평구"
+	},
+	{
+		"coNm": "주식회사 경화창호산업",
+		"busiNo": "3778600243",
+		"reperNm": "원상희",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "비금속 광물제품 제조업",
+		"regionCd": "47290",
+		"regionNm": "경북 경산시"
+	},
+	{
+		"coNm": "(주)동구바이오제약",
+		"busiNo": "1138103336",
+		"reperNm": "조용준",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료용 물질 및 의약품 제조업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "송월(주)",
+		"busiNo": "6078117714",
+		"reperNm": "박병대",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "섬유제품 제조업; 의복제외",
+		"regionCd": "48330",
+		"regionNm": "경남 양산시"
+	},
+	{
+		"coNm": "아이낸스(주)",
+		"busiNo": "1078611404",
+		"reperNm": "김현섭",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "(주)싸이몬",
+		"busiNo": "2298138071",
+		"reperNm": "안재봉/김성훈/정창호",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "티아이에스 주식회사",
+		"busiNo": "7198100554",
+		"reperNm": "박태오",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "(주)마루엔지니어링 건축사사무소",
+		"busiNo": "1358163557",
+		"reperNm": "성낙준",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "41110",
+		"regionNm": "경기 수원시"
+	},
+	{
+		"coNm": "주식회사 아이에스오토",
+		"busiNo": "1348621243",
+		"reperNm": "김순옥/손승모",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "자동차 및 트레일러 제조업",
+		"regionCd": "41270",
+		"regionNm": "경기 안산시"
+	},
+	{
+		"coNm": "(주)에코넥스이엔씨건축사사무소",
+		"busiNo": "1298601380",
+		"reperNm": "조희철/이영석",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "(주)에이제이월드",
+		"busiNo": "2208123149",
+		"reperNm": "홍성자",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 지엠에스컨설팅",
+		"busiNo": "1518700686",
+		"reperNm": "김종현",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11440",
+		"regionNm": "서울 마포구"
+	},
+	{
+		"coNm": "(주)인포큐브",
+		"busiNo": "2148701477",
+		"reperNm": "양문주",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "주식회사 이앤이트레이딩",
+		"busiNo": "1428120667",
+		"reperNm": "김영근",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "가구 제조업",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "(주)코씨드바이오팜",
+		"busiNo": "3018190229",
+		"reperNm": "박성민",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "43110",
+		"regionNm": "충북 청주시"
+	},
+	{
+		"coNm": "주식회사 디어스엠",
+		"busiNo": "1238604230",
+		"reperNm": "이철호",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "(주)신한정기",
+		"busiNo": "6098194264",
+		"reperNm": "한광덕",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "48120",
+		"regionNm": "경남 창원시"
+	},
+	{
+		"coNm": "(주)단해",
+		"busiNo": "1098135222",
+		"reperNm": "엄재웅/엄주섭",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "모락스트레이딩(주)",
+		"busiNo": "2208116162",
+		"reperNm": "김기성",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의복, 의복 액세서리 및 모피제품 제조업",
+		"regionCd": "11140",
+		"regionNm": "서울 중구"
+	},
+	{
+		"coNm": "(주)제이숲",
+		"busiNo": "1668700621",
+		"reperNm": "박대식",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "41150",
+		"regionNm": "경기 의정부시"
+	},
+	{
+		"coNm": "디엠바이오(주)",
+		"busiNo": "4758800070",
+		"reperNm": "카와사키요시쿠니/최경은",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료용 물질 및 의약품 제조업",
+		"regionCd": "28185",
+		"regionNm": "인천 연수구"
+	},
+	{
+		"coNm": "(주)엠토스솔루션스",
+		"busiNo": "1198617662",
+		"reperNm": "김관종",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "주식회사 퍼브",
+		"busiNo": "1098650437",
+		"reperNm": "강성욱",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "(주)예지솔루션",
+		"busiNo": "2118759290",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "(주)진영",
+		"busiNo": "5038196469",
+		"reperNm": "강석진",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "47830",
+		"regionNm": "경북 고령군"
+	},
+	{
+		"coNm": "케이맥(주)",
+		"busiNo": "3148117170",
+		"reperNm": "이재원",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "30200",
+		"regionNm": "대전 유성구"
+	},
+	{
+		"coNm": "시큐레터 주식회사",
+		"busiNo": "4598800248",
+		"reperNm": "임차성",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "썬덴코리아 주식회사",
+		"busiNo": "2128170277",
+		"reperNm": "권상오",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "씨이에프건설(주)",
+		"busiNo": "1208673698",
+		"reperNm": "안장열",
+		"superIndTpCd": "F",
+		"superIndTpNm": "건설업",
+		"indTpNm": "종합 건설업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 세계로시스템",
+		"busiNo": "1308194579",
+		"reperNm": "진병식",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "(주)모든테크",
+		"busiNo": "1238157071",
+		"reperNm": "김백선",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "41430",
+		"regionNm": "경기 의왕시"
+	},
+	{
+		"coNm": "(주)에이텍씨앤",
+		"busiNo": "3988100677",
+		"reperNm": "신승영",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 리로소프트",
+		"busiNo": "1088610301",
+		"reperNm": "최석",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "(주)아이작",
+		"busiNo": "3038128357",
+		"reperNm": "차경식",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "식료품 제조업",
+		"regionCd": "43770",
+		"regionNm": "충북 음성군"
+	},
+	{
+		"coNm": "(주)에스큐브아이",
+		"busiNo": "2148762737",
+		"reperNm": "오영철",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "디자인글꼴",
+		"busiNo": "6050679075",
+		"reperNm": "김수진",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "인쇄 및 기록매체 복제업",
+		"regionCd": "26230",
+		"regionNm": "부산 부산진구"
+	},
+	{
+		"coNm": "(주)태웅로직스",
+		"busiNo": "2028153193",
+		"reperNm": "한재동",
+		"superIndTpCd": "H",
+		"superIndTpNm": "운수 및 창고업",
+		"indTpNm": "창고 및 운송관련 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 프리코",
+		"busiNo": "8688600360",
+		"reperNm": "한상준",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)미디어브레인",
+		"busiNo": "1058678603",
+		"reperNm": "윤주훈",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)알테오젠",
+		"busiNo": "3148197965",
+		"reperNm": "박순재",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "30200",
+		"regionNm": "대전 유성구"
+	},
+	{
+		"coNm": "(주)에스와이테크",
+		"busiNo": "1298676178",
+		"reperNm": "강용찬",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "아주엠씨엠(주)",
+		"busiNo": "5048119301",
+		"reperNm": "정원창",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "인쇄 및 기록매체 복제업",
+		"regionCd": "47850",
+		"regionNm": "경북 칠곡군"
+	},
+	{
+		"coNm": "콜마파마 주식회사",
+		"busiNo": "1208131733",
+		"reperNm": "우경명",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료용 물질 및 의약품 제조업",
+		"regionCd": "43150",
+		"regionNm": "충북 제천시"
+	},
+	{
+		"coNm": "(주)휴레이포지티브",
+		"busiNo": "2208711214",
+		"reperNm": "최두아",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 파수",
+		"busiNo": "1208606582",
+		"reperNm": "조규곤",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11440",
+		"regionNm": "서울 마포구"
+	},
+	{
+		"coNm": "극동제연공업(주)",
+		"busiNo": "1258522047",
+		"reperNm": "박재윤",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "26380",
+		"regionNm": "부산 사하구"
+	},
+	{
+		"coNm": "(주)메스디아",
+		"busiNo": "2048157856",
+		"reperNm": "이승복",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "한신실리텍 주식회사",
+		"busiNo": "6038152572",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "26380",
+		"regionNm": "부산 사하구"
+	},
+	{
+		"coNm": "(주)해양생태기술연구소",
+		"busiNo": "6178155807",
+		"reperNm": "손민호",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "26290",
+		"regionNm": "부산 남구"
+	},
+	{
+		"coNm": "주식회사 엔에스텍",
+		"busiNo": "6128145565",
+		"reperNm": "김노성",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "48310",
+		"regionNm": "경남 거제시"
+	},
+	{
+		"coNm": "희래 주식회사",
+		"busiNo": "2208789314",
+		"reperNm": "김두일",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)나눔기술",
+		"busiNo": "1078151022",
+		"reperNm": "서흥대",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)지이엔지니어링",
+		"busiNo": "6078182286",
+		"reperNm": "김회률",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "26470",
+		"regionNm": "부산 연제구"
+	},
+	{
+		"coNm": "(주)이액티브",
+		"busiNo": "1048165089",
+		"reperNm": "김영태/이정훈",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "(주)니트머스",
+		"busiNo": "1208676472",
+		"reperNm": "김용재",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11140",
+		"regionNm": "서울 중구"
+	},
+	{
+		"coNm": "(주)한국아브노바",
+		"busiNo": "2048136676",
+		"reperNm": "남상옥",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "한양로보틱스(주)",
+		"busiNo": "1398134485",
+		"reperNm": "이원자",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "44800",
+		"regionNm": "충남 홍성군"
+	},
+	{
+		"coNm": "(주)케이엠에이치하이텍",
+		"busiNo": "3128125747",
+		"reperNm": "이상국",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "44200",
+		"regionNm": "충남 아산시"
+	},
+	{
+		"coNm": "아이탑스오토모티브 주식회사",
+		"busiNo": "1388171492",
+		"reperNm": "김구현",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "자동차 및 트레일러 제조업",
+		"regionCd": "41110",
+		"regionNm": "경기 수원시"
+	},
+	{
+		"coNm": "영도산업(주)",
+		"busiNo": "6038116464",
+		"reperNm": "이광호",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "26440",
+		"regionNm": "부산 강서구"
+	},
+	{
+		"coNm": "바른로지스틱스 주식회사",
+		"busiNo": "6028166336",
+		"reperNm": "김웅기",
+		"superIndTpCd": "H",
+		"superIndTpNm": "운수 및 창고업",
+		"indTpNm": "창고 및 운송관련 서비스업",
+		"regionCd": "26140",
+		"regionNm": "부산 서구"
+	},
+	{
+		"coNm": "(주)스마트포트테크놀로지",
+		"busiNo": "2208630325",
+		"reperNm": "박현지/함재삼",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "28245",
+		"regionNm": "인천 계양구"
+	},
+	{
+		"coNm": "주식회사 아데나소프트웨어",
+		"busiNo": "1388800375",
+		"reperNm": "정승우",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)한국신소재",
+		"busiNo": "6158101251",
+		"reperNm": "이명화",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "섬유제품 제조업; 의복제외",
+		"regionCd": "48270",
+		"regionNm": "경남 밀양시"
+	},
+	{
+		"coNm": "(주)애니파워이앤씨",
+		"busiNo": "1308632414",
+		"reperNm": "윤예상",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "41190",
+		"regionNm": "경기 부천시"
+	},
+	{
+		"coNm": "(주)에스앤에프솔루션",
+		"busiNo": "2148844115",
+		"reperNm": "권성호",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "조양기계금속",
+		"busiNo": "6131660178",
+		"reperNm": "윤정헌",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "자동차 및 트레일러 제조업",
+		"regionCd": "48170",
+		"regionNm": "경남 진주시"
+	},
+	{
+		"coNm": "엘앤피코스메틱(주)",
+		"busiNo": "1098617345",
+		"reperNm": "권오섭/추교인",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "주식회사 리스너",
+		"busiNo": "3678700428",
+		"reperNm": "최성천/김원",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "바로선병원",
+		"busiNo": "2170727061",
+		"reperNm": "진건형/김덕규",
+		"superIndTpCd": "Q",
+		"superIndTpNm": "보건업 및 사회복지 서비스업",
+		"indTpNm": "보건업",
+		"regionCd": "11320",
+		"regionNm": "서울 도봉구"
+	},
+	{
+		"coNm": "(주)브레인콜라",
+		"busiNo": "6408100224",
+		"reperNm": "김강산",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "주식회사 님버스네트웍스",
+		"busiNo": "1148687843",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "파이언넷(주)",
+		"busiNo": "2208674570",
+		"reperNm": "정병철",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "펜타시큐리티시스템(주)",
+		"busiNo": "1168165189",
+		"reperNm": "이석우",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "레이저앤피직스(주)",
+		"busiNo": "1238152339",
+		"reperNm": "한기관",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "41460",
+		"regionNm": "경기 용인시"
+	},
+	{
+		"coNm": "(주)렌즈미",
+		"busiNo": "1328607546",
+		"reperNm": "송계진/서광용",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "41310",
+		"regionNm": "경기 구리시"
+	},
+	{
+		"coNm": "덕산네오룩스 주식회사",
+		"busiNo": "3128674729",
+		"reperNm": "이준호/이수훈",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "44130",
+		"regionNm": "충남 천안시"
+	},
+	{
+		"coNm": "고려산업(주)",
+		"busiNo": "3148665304",
+		"reperNm": "한상태",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "비금속 광물제품 제조업",
+		"regionCd": "44270",
+		"regionNm": "충남 당진시"
+	},
+	{
+		"coNm": "(주)와우소프트",
+		"busiNo": "3058171831",
+		"reperNm": "배종상",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "보로노이바이오 주식회사",
+		"busiNo": "1468100829",
+		"reperNm": "김남두",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "28185",
+		"regionNm": "인천 연수구"
+	},
+	{
+		"coNm": "(주)익진엔지니어링",
+		"busiNo": "2208105777",
+		"reperNm": "박명준",
+		"superIndTpCd": "F",
+		"superIndTpNm": "건설업",
+		"indTpNm": "종합 건설업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)디카팩",
+		"busiNo": "2248133727",
+		"reperNm": "전영수",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "42130",
+		"regionNm": "강원 원주시"
+	},
+	{
+		"coNm": "(주)월드튜브",
+		"busiNo": "6228122201",
+		"reperNm": "설경숙",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "48250",
+		"regionNm": "경남 김해시"
+	},
+	{
+		"coNm": "한국오츠카전자(주)",
+		"busiNo": "1298164473",
+		"reperNm": "유정현",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 머큐리",
+		"busiNo": "1378131255",
+		"reperNm": "황하영",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "28260",
+		"regionNm": "인천 서구"
+	},
+	{
+		"coNm": "(주)에몬스가구",
+		"busiNo": "1398132740",
+		"reperNm": "김경수",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "가구 제조업",
+		"regionCd": "28200",
+		"regionNm": "인천 남동구"
+	},
+	{
+		"coNm": "주식회사 엠알티",
+		"busiNo": "4098618958",
+		"reperNm": "선기주",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "29170",
+		"regionNm": "광주 북구"
+	},
+	{
+		"coNm": "주식회사 제이이노텍",
+		"busiNo": "3128672416",
+		"reperNm": "류정식",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "44130",
+		"regionNm": "충남 천안시"
+	},
+	{
+		"coNm": "주식회사 두리씨오",
+		"busiNo": "1278638955",
+		"reperNm": "이상배",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "금속가공제품 제조업; 기계 및 가구 제외",
+		"regionCd": "41650",
+		"regionNm": "경기 포천시"
+	},
+	{
+		"coNm": "커민스필터 주식회사",
+		"busiNo": "1348114301",
+		"reperNm": "박종진",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "41110",
+		"regionNm": "경기 수원시"
+	},
+	{
+		"coNm": "주식회사 레이언스",
+		"busiNo": "1248713025",
+		"reperNm": "김태우",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "주식회사 예스폼",
+		"busiNo": "1208650680",
+		"reperNm": "이응열",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "정보서비스업",
+		"regionCd": "11200",
+		"regionNm": "서울 성동구"
+	},
+	{
+		"coNm": "이에스피 주식회사",
+		"busiNo": "1388199490",
+		"reperNm": "김석일",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "41170",
+		"regionNm": "경기 안양시"
+	},
+	{
+		"coNm": "주식회사 대우경금속 창녕공장",
+		"busiNo": "8068500405",
+		"reperNm": "김도연",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "자동차 및 트레일러 제조업",
+		"regionCd": "48740",
+		"regionNm": "경남 창녕군"
+	},
+	{
+		"coNm": "정우전기(주)",
+		"busiNo": "1368127928",
+		"reperNm": "김신호",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "41570",
+		"regionNm": "경기 김포시"
+	},
+	{
+		"coNm": "주식회사 뉴본홀딩스",
+		"busiNo": "2618110913",
+		"reperNm": "이근웅",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "수완센트럴병원",
+		"busiNo": "6969000063",
+		"reperNm": "천강우/고길석/이건준/송호석",
+		"superIndTpCd": "Q",
+		"superIndTpNm": "보건업 및 사회복지 서비스업",
+		"indTpNm": "보건업",
+		"regionCd": "29200",
+		"regionNm": "광주 광산구"
+	},
+	{
+		"coNm": "(주)토미구조엔지니어링",
+		"busiNo": "1138678619",
+		"reperNm": "윤기섭/정재길",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "주식회사 피앤피시큐어",
+		"busiNo": "1078644093",
+		"reperNm": "박천오",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "(주)카리스",
+		"busiNo": "1268671117",
+		"reperNm": "박우섭",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "핌즈(주)",
+		"busiNo": "2208685908",
+		"reperNm": "황선영",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11260",
+		"regionNm": "서울 중랑구"
+	},
+	{
+		"coNm": "건영테크 주식회사",
+		"busiNo": "6098179147",
+		"reperNm": "임국건",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "자동차 및 트레일러 제조업",
+		"regionCd": "48120",
+		"regionNm": "경남 창원시"
+	},
+	{
+		"coNm": "주식회사 버넥트",
+		"busiNo": "1948100551",
+		"reperNm": "하태진",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "정보서비스업",
+		"regionCd": "11170",
+		"regionNm": "서울 용산구"
+	},
+	{
+		"coNm": "주식회사 아들과딸",
+		"busiNo": "1218620758",
+		"reperNm": "조진석",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "28185",
+		"regionNm": "인천 연수구"
+	},
+	{
+		"coNm": "(주)지란지교시큐리티",
+		"busiNo": "1078831670",
+		"reperNm": "윤두식",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)지엔엠라이프",
+		"busiNo": "2208859267",
+		"reperNm": "박유영",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "주식회사 피엘지",
+		"busiNo": "6058633921",
+		"reperNm": "박순호",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "26320",
+		"regionNm": "부산 북구"
+	},
+	{
+		"coNm": "주식회사 필링크",
+		"busiNo": "1358601444",
+		"reperNm": "이민창",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "47850",
+		"regionNm": "경북 칠곡군"
+	},
+	{
+		"coNm": "주식회사 효신테크",
+		"busiNo": "1378155581",
+		"reperNm": "유상운",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "금속가공제품 제조업; 기계 및 가구 제외",
+		"regionCd": "28237",
+		"regionNm": "인천 부평구"
+	},
+	{
+		"coNm": "한일단조공업 주식회사",
+		"busiNo": "2038151830",
+		"reperNm": "권병호",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "43750",
+		"regionNm": "충북 진천군"
+	},
+	{
+		"coNm": "에이존테크(주)",
+		"busiNo": "5138160916",
+		"reperNm": "임청",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "27230",
+		"regionNm": "대구 북구"
+	},
+	{
+		"coNm": "(주)트루엔",
+		"busiNo": "1088169506",
+		"reperNm": "안재천",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "주식회사 경동건설",
+		"busiNo": "2228114888",
+		"reperNm": "김동규",
+		"superIndTpCd": "F",
+		"superIndTpNm": "건설업",
+		"indTpNm": "종합 건설업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 동부그린",
+		"busiNo": "4168114732",
+		"reperNm": "정오용",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "46150",
+		"regionNm": "전남 순천시"
+	},
+	{
+		"coNm": "웨스트윙",
+		"busiNo": "6201274347",
+		"reperNm": "최순흠",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "47230",
+		"regionNm": "경북 영천시"
+	},
+	{
+		"coNm": "유니퀘스트(주)",
+		"busiNo": "1208156132",
+		"reperNm": "앤드류김",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 플그림",
+		"busiNo": "2208886764",
+		"reperNm": "김영민",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11200",
+		"regionNm": "서울 성동구"
+	},
+	{
+		"coNm": "코아인텍 주식회사",
+		"busiNo": "2158677880",
+		"reperNm": "김규환",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "토와한국 주식회사",
+		"busiNo": "1078791666",
+		"reperNm": "한상윤",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "44130",
+		"regionNm": "충남 천안시"
+	},
+	{
+		"coNm": "(주)오픈오브젝트",
+		"busiNo": "2208733241",
+		"reperNm": "박원영",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "주식회사 더유제약",
+		"busiNo": "1138669177",
+		"reperNm": "김민구",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "위시컴퍼니(주)",
+		"busiNo": "1208815464",
+		"reperNm": "박성호",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "일동바이오사이언스(주)",
+		"busiNo": "4398700548",
+		"reperNm": "이장휘",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료용 물질 및 의약품 제조업",
+		"regionCd": "41220",
+		"regionNm": "경기 평택시"
+	},
+	{
+		"coNm": "주식회사 정샘물뷰티",
+		"busiNo": "2618120935",
+		"reperNm": "유민석",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "동하코퍼레이션(주) 이천지점",
+		"busiNo": "1268529970",
+		"reperNm": "김응",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "41500",
+		"regionNm": "경기 이천시"
+	},
+	{
+		"coNm": "(주)비욘드마케팅그룹",
+		"busiNo": "1208646551",
+		"reperNm": "신승익",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)삼일아엔씨",
+		"busiNo": "1078191887",
+		"reperNm": "채수걸",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "아이씨티웨이 주식회사",
+		"busiNo": "1388172429",
+		"reperNm": "조유복",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41170",
+		"regionNm": "경기 안양시"
+	},
+	{
+		"coNm": "열린이비인후과",
+		"busiNo": "3013092400",
+		"reperNm": "유승두",
+		"superIndTpCd": "Q",
+		"superIndTpNm": "보건업 및 사회복지 서비스업",
+		"indTpNm": "보건업",
+		"regionCd": "43110",
+		"regionNm": "충북 청주시"
+	},
+	{
+		"coNm": "웨이즈원 주식회사",
+		"busiNo": "4098653561",
+		"reperNm": "황승호",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41430",
+		"regionNm": "경기 의왕시"
+	},
+	{
+		"coNm": "주식회사 키웍스",
+		"busiNo": "2208839349",
+		"reperNm": "권기범",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "41210",
+		"regionNm": "경기 광명시"
+	},
+	{
+		"coNm": "키그린(주)",
+		"busiNo": "1298193100",
+		"reperNm": "박서영",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "41610",
+		"regionNm": "경기 광주시"
+	},
+	{
+		"coNm": "(주)휴노",
+		"busiNo": "2118670740",
+		"reperNm": "김영아/천정현",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "정보서비스업",
+		"regionCd": "11440",
+		"regionNm": "서울 마포구"
+	},
+	{
+		"coNm": "한국도키멕(주) 대구공장",
+		"busiNo": "6098524728",
+		"reperNm": "조홍래",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "27710",
+		"regionNm": "대구 달성군"
+	},
+	{
+		"coNm": "주식회사 우경정보기술",
+		"busiNo": "5028198620",
+		"reperNm": "박윤하",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+		"regionCd": "27260",
+		"regionNm": "대구 수성구"
+	},
+	{
+		"coNm": "주식회사 엠케이유니버셜",
+		"busiNo": "1078832801",
+		"reperNm": "이미경",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "(주)크로니아이티",
+		"busiNo": "2158653248",
+		"reperNm": "이해관",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "주식회사 지티씨솔루션",
+		"busiNo": "1198637052",
+		"reperNm": "김명섭",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41450",
+		"regionNm": "경기 하남시"
+	},
+	{
+		"coNm": "베렉스 주식회사",
+		"busiNo": "1208672971",
+		"reperNm": "이남욱",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 일렉오션",
+		"busiNo": "3978700206",
+		"reperNm": "정일화",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "26350",
+		"regionNm": "부산 해운대구"
+	},
+	{
+		"coNm": "(주)도화구조",
+		"busiNo": "2208125905",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "시앤피컨설팅 주식회사",
+		"busiNo": "1198657311",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "주식회사 엠엠피",
+		"busiNo": "1348601908",
+		"reperNm": "박경호",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41390",
+		"regionNm": "경기 시흥시"
+	},
+	{
+		"coNm": "주식회사 트리거파트너스",
+		"busiNo": "1468600732",
+		"reperNm": "김운하",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)에이치씨엔씨",
+		"busiNo": "6108177149",
+		"reperNm": "이영우",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "소매업; 자동차 제외",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "노바텍(주)",
+		"busiNo": "4108670973",
+		"reperNm": "정구선",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "29200",
+		"regionNm": "광주 광산구"
+	},
+	{
+		"coNm": "주식회사 라이앤캐처스",
+		"busiNo": "7448800108",
+		"reperNm": "허윤",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "정보서비스업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "싸토리우스코리아바이오텍(주)",
+		"busiNo": "1298183994",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 인텔리빅스",
+		"busiNo": "1148199927",
+		"reperNm": "김용식",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "아마다웰드테크코리아 주식회사",
+		"busiNo": "2298105487",
+		"reperNm": "후지모토타카시",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "주식회사 스탠드포인트",
+		"busiNo": "1148714707",
+		"reperNm": "김희찬",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "(주)한국경제티브이",
+		"busiNo": "1078170183",
+		"reperNm": "이봉구",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "방송업",
+		"regionCd": "11560",
+		"regionNm": "서울 영등포구"
+	},
+	{
+		"coNm": "주식회사 이앤코",
+		"busiNo": "8068700715",
+		"reperNm": "송병근",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "26350",
+		"regionNm": "부산 해운대구"
+	},
+	{
+		"coNm": "나노조명",
+		"busiNo": "2100586110",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "28200",
+		"regionNm": "인천 남동구"
+	},
+	{
+		"coNm": "대화페인트공업(주)",
+		"busiNo": "1348101219",
+		"reperNm": "이건택",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "41270",
+		"regionNm": "경기 안산시"
+	},
+	{
+		"coNm": "리눅스웨어 주식회사",
+		"busiNo": "2118703011",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)삼우에스앤티",
+		"busiNo": "2208603911",
+		"reperNm": "이상훈",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 넥스포",
+		"busiNo": "2208664198",
+		"reperNm": "김정배",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "(주)티디엠",
+		"busiNo": "4098610392",
+		"reperNm": "김선미",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "29170",
+		"regionNm": "광주 북구"
+	},
+	{
+		"coNm": "사단법인 한국건물에너지기술원",
+		"busiNo": "2148213473",
+		"reperNm": "김일환",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "11650",
+		"regionNm": "서울 서초구"
+	},
+	{
+		"coNm": "(주)에스피시스템스",
+		"busiNo": "6178116288",
+		"reperNm": "심상균/심효준",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "48330",
+		"regionNm": "경남 양산시"
+	},
+	{
+		"coNm": "주식회사 엘아이씨티",
+		"busiNo": "1428127957",
+		"reperNm": "노승욱/이병남",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+		"regionCd": "41110",
+		"regionNm": "경기 수원시"
+	},
+	{
+		"coNm": "주식회사 레뷰코퍼레이션",
+		"busiNo": "2618122044",
+		"reperNm": "장대규/정연",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 미림",
+		"busiNo": "1338122958",
+		"reperNm": "임장욱",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "41390",
+		"regionNm": "경기 시흥시"
+	},
+	{
+		"coNm": "주식회사 유유헬스케어",
+		"busiNo": "2248125509",
+		"reperNm": "유원상",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "식료품 제조업",
+		"regionCd": "42730",
+		"regionNm": "강원 횡성군"
+	},
+	{
+		"coNm": "주식회사 다코넷",
+		"busiNo": "1298543608",
+		"reperNm": "최종만",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11710",
+		"regionNm": "서울 송파구"
+	},
+	{
+		"coNm": "주식회사 애드오피",
+		"busiNo": "2148882841",
+		"reperNm": "이원섭",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "영농조합법인 킹스파머스",
+		"busiNo": "5578800085",
+		"reperNm": "여기혁",
+		"superIndTpCd": "A",
+		"superIndTpNm": "농업, 임업 및 어업",
+		"indTpNm": "농업",
+		"regionCd": "47110",
+		"regionNm": "경북 포항시"
+	},
+	{
+		"coNm": "주식회사 이뮤노맥스",
+		"busiNo": "1078841727",
+		"reperNm": "박세호",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "연구개발업",
+		"regionCd": "11290",
+		"regionNm": "서울 성북구"
+	},
+	{
+		"coNm": "주식회사 케이브레인컴퍼니",
+		"busiNo": "1298650144",
+		"reperNm": "민상일",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11440",
+		"regionNm": "서울 마포구"
+	},
+	{
+		"coNm": "주식회사 케이시스",
+		"busiNo": "6178151266",
+		"reperNm": "천병민",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "26290",
+		"regionNm": "부산 남구"
+	},
+	{
+		"coNm": "(주)테스콤",
+		"busiNo": "1288121092",
+		"reperNm": "유병돈",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료, 정밀, 광학기기 및 시계 제조업",
+		"regionCd": "41280",
+		"regionNm": "경기 고양시"
+	},
+	{
+		"coNm": "(주)픽슨",
+		"busiNo": "4168109393",
+		"reperNm": "정성만",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "금속가공제품 제조업; 기계 및 가구 제외",
+		"regionCd": "46230",
+		"regionNm": "전남 광양시"
+	},
+	{
+		"coNm": "(주)더블미",
+		"busiNo": "7338800035",
+		"reperNm": "김영식",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11140",
+		"regionNm": "서울 중구"
+	},
+	{
+		"coNm": "(주)하나기공",
+		"busiNo": "2198118248",
+		"reperNm": "신현승",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "금속가공제품 제조업; 기계 및 가구 제외",
+		"regionCd": "41550",
+		"regionNm": "경기 안성시"
+	},
+	{
+		"coNm": "(주)대림프라콘",
+		"busiNo": "5028124768",
+		"reperNm": "김동수",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "고무 및 플라스틱제품 제조업",
+		"regionCd": "27290",
+		"regionNm": "대구 달서구"
+	},
+	{
+		"coNm": "주식회사 아키브소프트",
+		"busiNo": "8628600042",
+		"reperNm": "김지성",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41280",
+		"regionNm": "경기 고양시"
+	},
+	{
+		"coNm": "주식회사 커머스웨어",
+		"busiNo": "2068179841",
+		"reperNm": "김범연",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11200",
+		"regionNm": "서울 성동구"
+	},
+	{
+		"coNm": "(주)한국해사기술",
+		"busiNo": "2118606947",
+		"reperNm": "신홍섭",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "건축기술, 엔지니어링 및 기타 과학기술 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "(주)해원티앤디",
+		"busiNo": "6058142430",
+		"reperNm": "현기웅",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "26530",
+		"regionNm": "부산 사상구"
+	},
+	{
+		"coNm": "(주)빌리언이십일",
+		"busiNo": "2128138919",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41410",
+		"regionNm": "경기 군포시"
+	},
+	{
+		"coNm": "주식회사 성강",
+		"busiNo": "1248622376",
+		"reperNm": "권오균",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "주식회사 한국에이티아이",
+		"busiNo": "1078195199",
+		"reperNm": "홍기우",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11530",
+		"regionNm": "서울 구로구"
+	},
+	{
+		"coNm": "주식회사 한유에너지",
+		"busiNo": "2018139029",
+		"reperNm": "박기흥",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11620",
+		"regionNm": "서울 관악구"
+	},
+	{
+		"coNm": "한국다이요잉크(주)",
+		"busiNo": "1348101558",
+		"reperNm": "배형기/사이토히토시",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "화학물질 및 화학제품 제조업; 의약품 제외",
+		"regionCd": "41270",
+		"regionNm": "경기 안산시"
+	},
+	{
+		"coNm": "주식회사 마담",
+		"busiNo": "7068800561",
+		"reperNm": "김연호",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "기타 전문, 과학 및 기술 서비스업",
+		"regionCd": "11200",
+		"regionNm": "서울 성동구"
+	},
+	{
+		"coNm": "주식회사 비전트리",
+		"busiNo": "2198130806",
+		"reperNm": "한예현",
+		"superIndTpCd": "P",
+		"superIndTpNm": "교육 서비스업",
+		"indTpNm": "교육 서비스업",
+		"regionCd": "45110",
+		"regionNm": "전북 전주시"
+	},
+	{
+		"coNm": "주식회사 예스피치",
+		"busiNo": "2208718861",
+		"reperNm": "김재중",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 위드바톤",
+		"busiNo": "1058754627",
+		"reperNm": "김준현",
+		"superIndTpCd": "N",
+		"superIndTpNm": "사업시설 관리, 사업 지원 및 임대 서비스업",
+		"indTpNm": "사업지원 서비스업",
+		"regionCd": "11500",
+		"regionNm": "서울 강서구"
+	},
+	{
+		"coNm": "법무법인 비트",
+		"busiNo": "1438132507",
+		"reperNm": "최성호",
+		"superIndTpCd": "M",
+		"superIndTpNm": "전문, 과학 및 기술 서비스업",
+		"indTpNm": "전문 서비스업",
+		"regionCd": "11680",
+		"regionNm": "서울 강남구"
+	},
+	{
+		"coNm": "주식회사 주원",
+		"busiNo": "2208111584",
+		"reperNm": "이운명",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "주식회사 인씨스",
+		"busiNo": "1208748987",
+		"reperNm": "남현식",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "41450",
+		"regionNm": "경기 하남시"
+	},
+	{
+		"coNm": "주식회사 프리윌린",
+		"busiNo": "8348600713",
+		"reperNm": "권기성",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "11620",
+		"regionNm": "서울 관악구"
+	},
+	{
+		"coNm": "주식회사 산하인더스토리",
+		"busiNo": "1328113908",
+		"reperNm": "조성만",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "비금속 광물제품 제조업",
+		"regionCd": "41360",
+		"regionNm": "경기 남양주시"
+	},
+	{
+		"coNm": "주식회사 비츠로넥스텍",
+		"busiNo": "8708100451",
+		"reperNm": "이병호",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "기타 기계 및 장비 제조업",
+		"regionCd": "41270",
+		"regionNm": "경기 안산시"
+	},
+	{
+		"coNm": "동아전기부품(주)",
+		"busiNo": "1328104466",
+		"reperNm": "이우용/조봉학",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "전기장비 제조업",
+		"regionCd": "41590",
+		"regionNm": "경기 화성시"
+	},
+	{
+		"coNm": "(주)아이티레이",
+		"busiNo": "2148872926",
+		"reperNm": "김상옥",
+		"superIndTpCd": "G",
+		"superIndTpNm": "도매 및 소매업",
+		"indTpNm": "도매 및 상품 중개업",
+		"regionCd": "11545",
+		"regionNm": "서울 금천구"
+	},
+	{
+		"coNm": "(주)쓰리뷰",
+		"busiNo": "2158186384",
+		"reperNm": "김희명",
+		"superIndTpCd": "J",
+		"superIndTpNm": "정보통신업",
+		"indTpNm": "출판업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	},
+	{
+		"coNm": "국제약품(주)",
+		"busiNo": "2078100309",
+		"reperNm": "남영우/남태훈/안재만",
+		"superIndTpCd": "C",
+		"superIndTpNm": "제조업",
+		"indTpNm": "의료용 물질 및 의약품 제조업",
+		"regionCd": "41130",
+		"regionNm": "경기 성남시"
+	}
+]

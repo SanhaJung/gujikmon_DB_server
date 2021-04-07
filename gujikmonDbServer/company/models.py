@@ -6,12 +6,18 @@ from django.db.models.base import Model
 # Create your models here.
 class Info( models.Model):
     objects = models.DjongoManager()
-    exit = models.BooleanField(default=False)
-    wantedInfoUrl = models.CharField(db_column='wantedInfoUrl', max_length=250)
-    wantedMobileInfoUrl = models.CharField(db_column='wantedMobileInfoUrl', max_length=250)
+    title = models.CharField(max_length=250)
+    wantedInfoUrl = models.CharField(max_length=250)
+    wantedMobileInfoUrl = models.CharField(max_length=250)
     class Meta:
-        db_table = "Info"
         abstract = True
+
+class InfoForm(forms.ModelForm):
+    class Meta:
+        model= Info
+        fields = (
+            'title','wantedInfoUrl','wantedMobileInfoUrl'
+        )
 
 class Certified(models.Model):
     ceNm=models.CharField(max_length=250)
@@ -30,17 +36,24 @@ class Companies(models.Model):
     objects=models.DjongoManager()
     coNm = models.CharField(max_length=250)
     coAddr = models.CharField(max_length=250)
-    regionCd = models.IntegerField()
+    superRegionCd = models.IntegerField()  # 지역코드 상
+    superRegionNm = models.CharField(max_length=250)
+    regionCd =models.IntegerField() # 지역코드 중
     regionNm = models.CharField(max_length=250)
-    superIndTpCd = models.IntegerField()
+    x = models.CharField(max_length=250)
+    y = models.CharField(max_length=250)
+    superIndTpCd = models.CharField(max_length=250) # 업종코드 상
     superIndTpNm = models.CharField(max_length=250)
+    indTpCd = models.CharField(max_length=250)# 업종코드 중
+    indTpNm = models.CharField(max_length=250)
     coContent = models.TextField()
     coMainProd = models.CharField(max_length=250)
     coGdpnt = models.CharField(max_length=250)
     coHomePage = models.CharField(max_length=250)
     alwaysWorkerCnt = models.CharField(max_length=250)
     sgBrandNm = models.ArrayField(model_container=Certified,)
-    info = models.EmbeddedField(model_container=Info,null=True)
+    recruitment = models.BooleanField(default=False)
+    info = models.ArrayField(model_container=Info,)
 
 
 # Companies
