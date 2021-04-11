@@ -38,4 +38,11 @@
   pip install xmltodict
   ```
 
-  
+
+* xlsx 읽기
+
+  ``` bash
+  pip install xlrd
+  pip install openpyxl
+   pip install pandas
+  ```
