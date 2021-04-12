@@ -79,10 +79,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'gujikmon_companies',
-        'USER': 'root',
+        'USER': 'devops',
         'PASSWORD': '1234',
-        'HOST': '127.0.0.0',
-        'PORT': '27017',
+        'CLIENT': {
+            'host': '3.36.237.46',
+            'port': 3306,
+        }
+        
     }
 }
 
