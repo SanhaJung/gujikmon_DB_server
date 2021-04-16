@@ -6,6 +6,7 @@ from djongo import models
 # Create your models here.
 class Info( models.Model):
     objects = models.DjongoManager()
+    wantedAuthNo = models.CharField(max_length=250)
     title = models.CharField(max_length=250)
     wantedInfoUrl = models.CharField(max_length=250)
     wantedMobileInfoUrl = models.CharField(max_length=250)
@@ -16,7 +17,7 @@ class InfoForm(forms.ModelForm):
     class Meta:
         model= Info
         fields = (
-            'title','wantedInfoUrl','wantedMobileInfoUrl'
+            'wantedAuthNo','title','wantedInfoUrl','wantedMobileInfoUrl'
         )
 
 class Certified(models.Model):
@@ -34,6 +35,7 @@ class CertifiedForm(forms.ModelForm):
 
 class Companies(models.Model):
     objects=models.DjongoManager()
+    busiNo = models.CharField(max_length=250)
     coNm = models.CharField(max_length=250)
     coAddr = models.CharField(max_length=250)
     superRegionCd = models.IntegerField()  # 지역코드 상

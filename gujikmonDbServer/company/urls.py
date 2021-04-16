@@ -4,4 +4,10 @@ from . import views
 
 urlpatterns = [
     path('insert/', views.companyDbInsert, name='insert'),
+    path('update/', views.companyDBupdate, name='update'),
+    # url(r'^v1/tasks/$', views.tasks, name='tasks'),
+    # path('v1/tasks/', views.tasks, name='tasks'),
+    # path('', views.index , name='index'),
+    # path('test/', views.test, name='test'),
+    # path('sTest/', views.sTest, name='stest')
 ]

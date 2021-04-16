@@ -74,19 +74,27 @@ WSGI_APPLICATION = 'gujikmonDbServer.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
+# DATABASE_ROUTERS = [ 
+#     'company.dbrouter.MultiDBRouter',
+#  ]
 
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'gujikmon_companies',
+        'NAME': 'gujikmon_companies_auto',
         'USER': 'devops',
         'PASSWORD': '1234',
-        'CLIENT': {
-            'host': '3.36.237.46',
-            'port': 3306,
-        }
-        
-    }
+        'HOST': 'localshost',
+        'PORT': '27017'
+        # 'CLIENT': {
+        #     'host': '3.36.237.46',
+        #     'port': 3306,
+        # }
+    },
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # }
 }
 
 
@@ -114,7 +122,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
@@ -125,5 +133,5 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
-
 STATIC_URL = '/static/'
+

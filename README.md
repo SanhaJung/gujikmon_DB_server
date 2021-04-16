@@ -46,3 +46,9 @@
   pip install openpyxl
    pip install pandas
   ```
+
+* 예약 프로그램 수행
+``` bash
+pip install apscheduler
+pip  install  django-apscheduler
+```

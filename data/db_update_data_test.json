@@ -1,0 +1,126 @@
+{
+	"sg": [
+		{
+			"busiNo": "1238187783",
+			"coNm": "파스코(주)",
+			"coAddr": "경기 안양시 동안구 전파로104번길 22",
+			"superRegionCd": "41000",
+			"superRegionNm": "경기",
+			"regionCd": "41173",
+			"regionNm": "경기 안양시 동안구",
+			"x": "126.943703130401",
+			"y": "37.3886293583508",
+			"superIndTpCd": "C",
+			"superIndTpNm": "제조업",
+			"indTpCd": "28",
+			"indTpNm": "전기장비 제조업",
+			"coMainProd": "자동제어기기 제조/컴퓨터주변기기 도매/계측기기,측정기기 설계,A/S/정보통신공사",
+			"coHomePage": "www.efasco.co.kr",
+			"allwaysWorkerCnt": "37",
+			"sgBrandNm": [
+				"강소기업",
+				"기술혁신"
+			],
+			"recruitement": false,
+			"info": []
+		},
+		{
+			"busiNo": "6068101937",
+			"coNm": "팔미금속공업(주)",
+			"coAddr": "경남 창원시 진해구 남영로522번길 61",
+			"superRegionCd": "48000",
+			"superRegionNm": "경남",
+			"regionCd": "48129",
+			"regionNm": "경남 창원시 진해구",
+			"x": "128.78990024118",
+			"y": "35.1178260618566",
+			"superIndTpCd": "C",
+			"superIndTpNm": "제조업",
+			"indTpCd": "24",
+			"indTpNm": "1차 금속 제조업",
+			"coMainProd": "선철주물 주조",
+			"coHomePage": null,
+			"allwaysWorkerCnt": "40",
+			"sgBrandNm": [
+				"강소기업",
+				"기술혁신"
+			],
+			"recruitement": true,
+			"info": [
+				{
+					"wantedAuthNo": "K131132103220032",
+					"title": "Q.C 재질파트 사원모집",
+					"wantedInfoUrl": "http://www.work.go.kr/empDetailRedirect.do?wantedAuthNo=K131132103220032",
+					"wantedMobileInfoUrl": "https://m.work.go.kr/regionJobsWorknet/jobDetailView2.do?srchInfotypeNm=VALIDATION&srchWantedAuthNo=K131132103220032"
+				}
+			]
+		},
+		{
+			"busiNo": "4098176652",
+			"coNm": "포미 주식회사",
+			"coAddr": "광주 북구 첨단연신로288번길 30",
+			"superRegionCd": "29000",
+			"superRegionNm": "광주",
+			"regionCd": "29170",
+			"regionNm": "광주 북구",
+			"x": "126.857094768511",
+			"y": "35.203258578159",
+			"superIndTpCd": "C",
+			"superIndTpNm": "제조업",
+			"indTpCd": "26",
+			"indTpNm": "전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업",
+			"coMainProd": "유선통신장치,광통신 제조,도소매",
+			"coHomePage": "www.Photonics-mediate.co.kr",
+			"allwaysWorkerCnt": "61",
+			"sgBrandNm": [
+				"강소기업",
+				"기술혁신"
+			],
+			"recruitement": true,
+			"info": [
+				{
+					"wantedAuthNo": "K160012104130062",
+					"title": "구매기획/자재관리 채용",
+					"wantedInfoUrl": "http://www.work.go.kr/empDetailRedirect.do?wantedAuthNo=K160012104130062",
+					"wantedMobileInfoUrl": "https://m.work.go.kr/regionJobsWorknet/jobDetailView2.do?srchInfotypeNm=VALIDATION&srchWantedAuthNo=K160012104130062"
+				},
+				{
+					"wantedAuthNo": "K160012103290089",
+					"title": "생활가전 회로개발자 모집",
+					"wantedInfoUrl": "http://www.work.go.kr/empDetailRedirect.do?wantedAuthNo=K160012103290089",
+					"wantedMobileInfoUrl": "https://m.work.go.kr/regionJobsWorknet/jobDetailView2.do?srchInfotypeNm=VALIDATION&srchWantedAuthNo=K160012103290089"
+				},
+				{
+					"wantedAuthNo": "K160012103290088",
+					"title": "전산 시스템 유지관리자 채용",
+					"wantedInfoUrl": "http://www.work.go.kr/empDetailRedirect.do?wantedAuthNo=K160012103290088",
+					"wantedMobileInfoUrl": "https://m.work.go.kr/regionJobsWorknet/jobDetailView2.do?srchInfotypeNm=VALIDATION&srchWantedAuthNo=K160012103290088"
+				}
+			]
+		},
+		{
+			"busiNo": "1338126124",
+			"coNm": "풍광기계(주)",
+			"coAddr": "경기 시흥시 정왕천로 253",
+			"superRegionCd": "41000",
+			"superRegionNm": "경기",
+			"regionCd": "41390",
+			"regionNm": "경기 시흥시",
+			"x": "126.740266633827",
+			"y": "37.3336909898797",
+			"superIndTpCd": "C",
+			"superIndTpNm": "제조업",
+			"indTpCd": "29",
+			"indTpNm": "기타 기계 및 장비 제조업",
+			"coMainProd": "섬유기계(캄피트,모소기,샴푸라이징),직물방축기,오푼콤펙터휄트 제조/부동산 임대",
+			"coHomePage": "www.poongkwang.com",
+			"allwaysWorkerCnt": "25",
+			"sgBrandNm": [
+				"강소기업",
+				"기술혁신"
+			],
+			"recruitement": false,
+			"info": []
+		}
+	]
+}
