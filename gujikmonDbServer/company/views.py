@@ -5,7 +5,7 @@ import urllib
 
 from .worknetCrawling.sg_recruit_mapping_api import sg_recrut_mapping_api
 from .worknetCrawling.company_DB_update_api import company_DB_update
-
+from .worknetCrawling.rigion_test import region_test
 def companyDbInsert(request):
     db_insert = sg_recrut_mapping_api()
     # with open('../data/DB_insert_data/db_insert_data.json', 'r', encoding='UTF-8') as f:
@@ -46,3 +46,8 @@ def companyDbInsert(request):
 def companyDBupdate(reauest):
     company_DB_update()
     return HttpResponse('DB Update Done!')
+
+
+def regionTest(request):
+    region_test()
+    return HttpResponse('region test!')

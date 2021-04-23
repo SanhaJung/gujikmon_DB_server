@@ -25,7 +25,10 @@ SECRET_KEY = '!tvt9c#o5041ee+^@8xpcu2lk1&xe3z3+@s9^d0r9@%jujl=bc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# 로컬에서 원격에 접근시 주석처리
+# ALLOWED_HOSTS = ['127.0.0.1','3.36.237.46']
+ALLOWED_HOSTS = ['*']
+
 
 
 # Application definition
@@ -81,7 +84,7 @@ WSGI_APPLICATION = 'gujikmonDbServer.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'gujikmon_companies_auto',
+        'NAME': 'gujikmon_companies_auto2',
         'USER': 'devops',
         'PASSWORD': '1234',
         'HOST': 'localshost',

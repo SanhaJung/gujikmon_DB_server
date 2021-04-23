@@ -26,7 +26,7 @@ def recrut_store_api():
         recruite_list.extend(jsonObj['wanted'])
         page += 1
     print('recrut_store  end!!!')
-    with open('../data/sg_recruit_test.json', 'w', encoding='utf-8') as make_file:
-        json.dump(recruite_list, make_file, ensure_ascii=False, indent='\t')
+    # with open('../data/sg_recruit_test.json', 'w', encoding='utf-8') as make_file:
+    #     json.dump(recruite_list, make_file, ensure_ascii=False, indent='\t')
     return recruite_list
     

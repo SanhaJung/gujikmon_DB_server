@@ -21,23 +21,32 @@ def sg_recrut_mapping_api():
 
     # 기업정보, 채용정보 저장 json
     db_insert_dict = { "sg": [] }
+    with open('./region_code.json', 'r', encoding='UTF-8') as f:
+        json_region_code = json.load(f)
 
     # 강소기업 정보 저장
     for j in json_data_sg:
+        t = 0
         temp_dict = {}
         temp_dict['busiNo'] = j['busiNo']
         temp_dict['coNm'] = j['coNm']
         try:
             temp_dict['coAddr'] = j['coAddr']
+            if json_region_code[j['regionCd']][0] in j['coAddr']:
+                pass
+            else:
+                t = 1
         except:
-            temp_dict['coAddr'] = ""
+            t = 1
         temp_dict['superRegionCd'] = ""
         temp_dict['superRegionNm'] = ""
         temp_dict['regionCd'] = j['regionCd']
         try:
             temp_dict['regionNm'] = j['regionNm']
         except:
-            temp_dict['regionNm'] = ""
+            t = 1
+
+        
         temp_dict['x'] = ""
         temp_dict['y'] = ""
         temp_dict['superIndTpCd'] = j['superIndTpCd']
@@ -70,8 +79,8 @@ def sg_recrut_mapping_api():
 
         temp_dict['recruitement'] = False
         temp_dict['info'] = []
-
-        db_insert_dict['sg'].append(temp_dict)
+        if t == 0:
+            db_insert_dict['sg'].append(temp_dict)
 
     # 기업정보, 채용정보 매칭하여(기업명, 지역코드)  채용정보 저장
     for i in json_data_sg_recruite:
@@ -124,8 +133,8 @@ def sg_recrut_mapping_api():
 
 
     # 지역코드(상) 추가, regionNm(중) 보충 알고리즘
-    with open('../data/region_code.json', 'r', encoding='UTF-8') as f:
-        json_region_code = json.load(f)
+    # with open('./region_code.json', 'r', encoding='UTF-8') as f:
+    #     json_region_code = json.load(f)
 
     for j in db_insert_dict['sg']:
         try:
@@ -177,8 +186,8 @@ def sg_recrut_mapping_api():
             pass
     print('sg_recrut_mapping_api  end!!!')
 
-    with open('../data/db_update_data_test_final.json', 'w', encoding='utf-8') as make_file:
-        json.dump(db_insert_dict_only_xy_ex, make_file, ensure_ascii=False, indent='\t')
+    # with open('../data/db_update_data_test_final.json', 'w', encoding='utf-8') as make_file:
+    #     json.dump(db_insert_dict_only_xy_ex, make_file, ensure_ascii=False, indent='\t')
 
     return db_insert_dict_only_xy_ex
     # with open('./data/DB_insert_data/db_insert_data2.json', 'w', encoding='utf-8') as make_file:

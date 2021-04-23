@@ -9,6 +9,7 @@ from django_apscheduler.jobstores import DjangoJobStore
 from django_apscheduler.models import DjangoJobExecution
 
 import requests
+from django.http import HttpResponse
 
 logger = logging.getLogger(__name__)
 
@@ -16,8 +17,8 @@ logger = logging.getLogger(__name__)
 def my_job():
     #  Your job processing logic here... 
     url = "http://127.0.0.1:8000/update/"
-    print("t")
     return requests.get(url)
+
 
 def delete_old_job_executions(max_age=604_800):
     """This job deletes all apscheduler job executions older than `max_age` from the database."""
@@ -33,7 +34,8 @@ class Command(BaseCommand):
 
         scheduler.add_job(
             my_job,
-            trigger=CronTrigger(hour="3"),  # 매일 새벽 세시에 반복
+            # trigger=CronTrigger(hour='3'),  # 매일 새벽 세시에 반복
+            trigger=CronTrigger(second="*/10"),  # Every 10 seconds
             id="my_job",  # The `id` assigned to each job MUST be unique
             max_instances=1,
             replace_existing=True,
@@ -60,3 +62,4 @@ class Command(BaseCommand):
             logger.info("Stopping scheduler...")
             scheduler.shutdown()
             logger.info("Scheduler shut down successfully!")
+            # scheduler.start()
