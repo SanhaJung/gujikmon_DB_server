@@ -87,12 +87,12 @@ DATABASES = {
         'NAME': 'gujikmon_companies_auto2',
         'USER': 'devops',
         'PASSWORD': '1234',
-        'HOST': 'localshost',
-        'PORT': '27017'
-        # 'CLIENT': {
-        #     'host': '3.36.237.46',
-        #     'port': 3306,
-        # }
+        # 'HOST': 'localshost',
+        # 'PORT': '27017'
+        'CLIENT': {
+            'host': '3.36.237.46',
+            'port': 3306,
+        }
     },
     # 'default': {
     #     'ENGINE': 'django.db.backends.sqlite3',
